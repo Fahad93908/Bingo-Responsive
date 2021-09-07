@@ -1,0 +1,26 @@
+@media (max-width:576px) and (min-width:0px){
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px;
+    display: inline-block;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .offer_img{
+        text-align: center;
+    }
+  
+}
+@media (max-width:767px) and (min-width:577px){
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px;
+    display: inline-block;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .offer_img{
+        text-align: center;
+    }
+  
+}
